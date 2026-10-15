@@ -1,0 +1,12 @@
+# 合并产出（不要传视频上来）
+outputs/
+work/
+
+# 本地设置（含个人路径）
+settings.json
+
+# 系统/临时文件
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
